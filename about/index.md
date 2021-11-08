@@ -3,9 +3,9 @@
 
 # Learn whenever and wherever you can!
 
-## Ngôn ngữ
+## Ngôn ngữ 
 
-* English
+* English 
 * Japanese
 
 ## HR professional
@@ -22,16 +22,16 @@
 * Nhân sự kế thừa 
 * Review định kỳ, đột xuất 
 * Hệ thống KPI, quy trình 
-### Chính sách lương thưởng, phúc lợi
+### C&B
+* Công,lương
+* BHXH
 * Đánh giá, cập nhật, bổ sung, thay đổi 
-### Giải quyết quan hệ lao động 
+### Quan hệ lao động 
 * Luật 
 * Thôi việc
 * Kỷ luật, khen thưởng 
 ### Hành chính
-* Công, lương
 * Sự kiện
-* BHXH
 * Văn thư, lưu trữ 
   
 **Reference** https://miro.com/app/board/o9J_lx4L1hk=/?invite_link_id=732292692585  
