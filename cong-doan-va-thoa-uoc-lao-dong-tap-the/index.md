@@ -16,27 +16,27 @@
   * Đối với NLĐ: Thành lập công đoàn, tham gia đình công, nâng cao tiêu chuẩn, lợi ích làm việc 
   * Đối với NSDLĐ: Các hiệp định thương mại thế hệ mới có đưa tiêu chuẩn lao động vào trong tiêu chuẩn xét sản phẩm xuất khẩu.
 * Đảm bảo điều kiện hoạt động CĐ:
-  *  Được bố trí nơi làm việc, cung cấp thông tin, điều kiện cần thiết 
-  *  Đảm bảo thời giờ làm việc 
-  *  Đảm bảo phúc lợi tập thể như những người làm việc trong doanh nghiệp > cán bộ công đoàn chuyên trách 
+  * Được bố trí nơi làm việc, cung cấp thông tin, điều kiện cần thiết 
+  * Đảm bảo thời giờ làm việc 
+  * Đảm bảo phúc lợi tập thể như những người làm việc trong doanh nghiệp > cán bộ công đoàn chuyên trách 
 # Công đoàn 
 * Địa vị pháp lý: 
-  *  Là tổ chức chính trị-xã hội
-  *  Dưới sự lãnh đạo của Đảng 
-  *  Đại diện, bảo vệ NLĐ 
+  * Là tổ chức chính trị-xã hội
+  * Dưới sự lãnh đạo của Đảng 
+  * Đại diện, bảo vệ NLĐ 
 * Chức năng:
   * Đại diện TTNLĐ: Khởi xướng, lãnh đạo đình công; thương lượng tập thể
-  *  Bảo vệ NLĐ: Giám sat thực hiện KLLĐ của NSDLĐ
-  *  Tham gia QLNN, QL KT-XH; Tuyên truyền, vận động thực hiện chính sách NN, LĐ 
+  * Bảo vệ NLĐ: Giám sat thực hiện KLLĐ của NSDLĐ
+  * Tham gia QLNN, QL KT-XH; Tuyên truyền, vận động thực hiện chính sách NN, LĐ 
 *  Hệ thống tổ chức (cao xuống thấp)
-   *  Tổng liên đoàn LĐ
-   *  Liên đoàn LĐ tỉnh/CĐ ngành/Tổng công ty trực thuộc TW
-   *  CĐ cấp trên cơ sở 
-   *  CĐ cơ sở, nghiệp đoàn
+   * Tổng liên đoàn LĐ
+   * Liên đoàn LĐ tỉnh/CĐ ngành/Tổng công ty trực thuộc TW
+   * CĐ cấp trên cơ sở 
+   * CĐ cơ sở, nghiệp đoàn
 * CĐCS: 
-  *  Là tổ chức cơ sở của CĐ 
-  *  Tập hợp đoàn viên của 1/ 1 số DN
-  *  Được CĐ cấp trên công nhận 
+  * Là tổ chức cơ sở của CĐ 
+  * Tập hợp đoàn viên của 1/ 1 số DN
+  * Được CĐ cấp trên công nhận 
 * Điều kiện thành lập CĐCS:
   *  Nếu NLĐ đã là ĐVCĐ: Ít nhất 5 ĐVCD tự nguyện gia nhập CĐVN 
   *  Nếu NLĐ chưa phải là ĐVCĐ: Ít nhất 5 NLĐ tự nguyện gia nhập CĐVN 
@@ -47,11 +47,18 @@
   * Trong thời hạn 15 ngày, lập hồ sơ đề nghị CĐ cấp trên trực tiếp cơ sở ra quyết định công nhận ĐV và CĐCS 
   * CĐ cấp trên trực tiếp cơ sở ra quyết định công nhận CĐCS 
 * Thẩm quyền của CĐ:
-  *   CĐ TW: 
+  * CĐ TW: 
       * Làm luật: Trình dự án luật, pháp lệnh. VD: Luật công đoàn
       * Tham gia các hội đồng: Đưa ra khuyến nghị. VD: Hội đồng tiền lương QG
       * Tham dự hội nghị/được tham khảo ý kiến: Bàn, quyết định vấn đề liên quan đến quyền, nghĩa vụ của NLĐ. VD: đóng góp ý kiến xây dựng danh mục bệnh nghề nghiệp  
-
+  * CĐ cấp trên cơ sở:
+    * Theo đề nghị của NLĐ tại DN chưa có CĐCS: 
+      * Đại diện, bảo việc quyền, lợi ích hợp pháp, chính đáng của NLĐ 
+      * Đối thoại, thương lượng 
+      * Tổ chức, lãnh đạo đình công 
+    * Không cần có sự đề nghị của NLĐ: 
+      * Tuyên truyền, vận động, hướng dẫn NLĐ thành lập, gia nhập, hoạt động công đoàn 
+      * Yêu cầu NSDLĐ, cơ quan QLNN về LĐ địa phương tạo điều kiện hỗ trợ, thành lập CĐCS 
 
 
 > Tiếp theo, xem [Tư duy xử lý kỷ luật](https://lehanget154.github.io/tu-duy-xu-ly-ky-luat/)  
