@@ -60,6 +60,9 @@
       * Tuyên truyền, vận động, hướng dẫn NLĐ thành lập, gia nhập, hoạt động công đoàn 
       * Yêu cầu NSDLĐ, cơ quan QLNN về LĐ địa phương tạo điều kiện hỗ trợ, thành lập CĐCS 
   * CĐCS: 
-    *  
+    * Tham gia giải quyết TCLĐ; khởi kiện để BV NLĐ
+    * Tổ chức và lãnh đạo đình công 
+    * Tổ chức các phong trào thi đua 
+    * Tổ chức, nâng cao đời sống cho NLĐ 
 
 > Tiếp theo, xem [Tư duy xử lý kỷ luật](https://lehanget154.github.io/tu-duy-xu-ly-ky-luat/)  
