@@ -13,7 +13,8 @@
 * Theo LLĐ: NLĐ có quyền thành lập, gia nhập, hoạt động công đoàn, tổ chức nghề nghiệp, tổ chức khác theo quy định của PL.
 * Theo LCĐ: NLĐ là người Việt Nam làm việc trong cơ quan, tổ chức, doanh nghiệp có quyền thành lập, gia nhập và hoạt động công đoàn.
 * Ý nghĩa, vị trí của quyền TDLH: là 1 trong 4 tiêu chuẩn cốt lõi của con người, là quyền cơ bản mọi quốc gia đều phải tôn trọng. 
-*  
+  * Đối với NLĐ: Thành lập công đoàn, tham gia đình công, nâng cao tiêu chuẩn, lợi ích làm việc 
+  * Đối với NSDLĐ: Các hiệp định thương mại thế hệ mới có đưa tiêu chuẩn lao động vào trong tiêu chuẩn xét sản phẩm xuất khẩu.
 
 
 
