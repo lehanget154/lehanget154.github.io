@@ -28,7 +28,11 @@
   * Đại diện TTNLĐ: Khởi xướng, lãnh đạo đình công; thương lượng tập thể
   *  Bảo vệ NLĐ: Giám sat thực hiện KLLĐ của NSDLĐ
   *  Tham gia QLNN, QL KT-XH; Tuyên truyền, vận động thực hiện chính sách NN, LĐ 
-*  
+*  Hệ thống tổ chức (cao xuống thấp)
+   *  Tổng liên đoàn LĐ
+   *  Liên đoàn LĐ tỉnh/CĐ ngành/Tổng công ty trực thuộc TW
+   *  CĐ cấp trên cơ sở 
+   *  CĐ cơ sở, nghiệp đoàn
 
 
 
