@@ -9,7 +9,7 @@
 * Thông tư 27/2014/TT-BLĐTBXH
 * Các công ước của ILO
 * Chương 19 của TPP 
-# Quyền tự do lập hội
+# Quyền tự do lập hội (freedom of association)
 * Theo LLĐ: NLĐ có quyền thành lập, gia nhập, hoạt động công đoàn, tổ chức nghề nghiệp, tổ chức khác theo quy định của PL.
 * Theo LCĐ: NLĐ là người Việt Nam làm việc trong cơ quan, tổ chức, doanh nghiệp có quyền thành lập, gia nhập và hoạt động công đoàn.
 * Ý nghĩa, vị trí của quyền TDLH: là 1 trong 4 tiêu chuẩn cốt lõi của con người, là quyền cơ bản mọi quốc gia đều phải tôn trọng. 
@@ -81,5 +81,12 @@
   * Việc thực hiện các thoả thuận 
 * Hình thức đối thoại:
   *  Định kỳ: 3 tháng/lần
+     * Phía NSDLĐ: NSDLĐ/người được uỷ quyền hợp pháp & các thành viên đại diện ho bên NSDLĐ do NSDLĐ cử 
+     * Phía NLĐ: BCH CĐCS/Đại diện BCH CĐCTTTCS & các thành viên đại diện cho TTNLĐ do hội nghị NLĐ bầu 
+     * Trình tự: Gửi nội dung yêu cầu đối thoại (5 ngày) -> Thống nhất nội dung, thời gian, địa điểm, thành phần tham dự (3 ngày) -> Ra quyết định tổ chức đối thoại định kỳ -> Tổ chức đối thoại -> Kết thúc đối thoại 
   *  Đột xuất: Bất kỳ thời điểm nào 
+     * Gửi nội dung yêu cầu đối thoại (10 ngày) -> Tổ chức đối thoại -> Kết thúc đối thoại 
+* Hội nghị NLĐ 
+# Thương lượng tập thể (Collective bargaining)  
+
 > Tiếp theo, xem [Luật Công Đoàn 2012](hhttp://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=1&mode=detail&document_id=163545)  
