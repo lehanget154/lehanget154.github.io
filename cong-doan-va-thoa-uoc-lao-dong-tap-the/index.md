@@ -74,5 +74,10 @@
 *  Các hình thức thực hiện QCDC tại cơ sở:
    * Đối thoại tại nơi làm việc
    * Hội nghị NLĐ
-   * Các hình thức khác   
+   * Các hình thức khác 
+* Nội dung đối thoại:
+  * Điều kiện làm việc, yêu càu của NLĐ
+  * Tình hình sản xuất kinh doanh, yêu cầu của NSDLĐ 
+  * Việc thực hiện các thoả thuận 
+ 
 > Tiếp theo, xem [Luật Công Đoàn 2012](hhttp://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=1&mode=detail&document_id=163545)  
