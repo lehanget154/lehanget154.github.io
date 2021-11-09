@@ -15,6 +15,10 @@
 * Ý nghĩa, vị trí của quyền TDLH: là 1 trong 4 tiêu chuẩn cốt lõi của con người, là quyền cơ bản mọi quốc gia đều phải tôn trọng. 
   * Đối với NLĐ: Thành lập công đoàn, tham gia đình công, nâng cao tiêu chuẩn, lợi ích làm việc 
   * Đối với NSDLĐ: Các hiệp định thương mại thế hệ mới có đưa tiêu chuẩn lao động vào trong tiêu chuẩn xét sản phẩm xuất khẩu.
+* Đảm bảo điều kiện hoạt động CĐ:
+  *  Được bố trí nơi làm việc, cung cấp thông tin, điều kiện cần thiết 
+  *  Đảm bảo thời giờ làm việc 
+  *  Đảm bảo phúc lợi tập thể 
 
 
 
