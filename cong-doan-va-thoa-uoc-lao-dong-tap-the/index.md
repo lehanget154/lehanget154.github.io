@@ -12,6 +12,7 @@
 # Quyền tự do lập hội
 * Theo LLĐ: NLĐ có quyền thành lập, gia nhập, hoạt động công đoàn, tổ chức nghề nghiệp, tổ chức khác theo quy định của PL.
 * Theo LCĐ: NLĐ là người Việt Nam làm việc trong cơ quan, tổ chức, doanh nghiệp có quyền thành lập, gia nhập và hoạt động công đoàn.
+* Ý nghĩa, vị trí của quyền TDLH: 
 
 
 
