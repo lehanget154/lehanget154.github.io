@@ -59,6 +59,7 @@
     * Không cần có sự đề nghị của NLĐ: 
       * Tuyên truyền, vận động, hướng dẫn NLĐ thành lập, gia nhập, hoạt động công đoàn 
       * Yêu cầu NSDLĐ, cơ quan QLNN về LĐ địa phương tạo điều kiện hỗ trợ, thành lập CĐCS 
-
+  * CĐCS: 
+    *  
 
 > Tiếp theo, xem [Tư duy xử lý kỷ luật](https://lehanget154.github.io/tu-duy-xu-ly-ky-luat/)  
