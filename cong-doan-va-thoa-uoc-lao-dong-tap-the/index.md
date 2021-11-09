@@ -18,7 +18,9 @@
 * Đảm bảo điều kiện hoạt động CĐ:
   *  Được bố trí nơi làm việc, cung cấp thông tin, điều kiện cần thiết 
   *  Đảm bảo thời giờ làm việc 
-  *  Đảm bảo phúc lợi tập thể 
+  *  Đảm bảo phúc lợi tập thể như những người làm việc trong doanh nghiệp > cán bộ công đoàn chuyên trách 
+# Công đoàn 
+*  
 
 
 
