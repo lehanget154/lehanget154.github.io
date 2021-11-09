@@ -64,5 +64,6 @@
     * Tổ chức và lãnh đạo đình công 
     * Tổ chức các phong trào thi đua 
     * Tổ chức, nâng cao đời sống cho NLĐ 
-
+# Đối thoại tại nơi làm việc 
+* NĐ 60: 
 > Tiếp theo, xem [Tư duy xử lý kỷ luật](https://lehanget154.github.io/tu-duy-xu-ly-ky-luat/)  
