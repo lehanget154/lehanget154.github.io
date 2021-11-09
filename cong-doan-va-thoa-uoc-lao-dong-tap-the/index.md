@@ -20,7 +20,10 @@
   *  Đảm bảo thời giờ làm việc 
   *  Đảm bảo phúc lợi tập thể như những người làm việc trong doanh nghiệp > cán bộ công đoàn chuyên trách 
 # Công đoàn 
-*  
+* Địa vị pháp lý: 
+  *  Là tổ chức chính trị-xã hội
+  *  Dưới sự lãnh đạo của Đảng 
+  *  Đại diện, bảo vệ NLĐ 
 
 
 
