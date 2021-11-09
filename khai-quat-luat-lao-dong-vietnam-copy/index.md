@@ -9,6 +9,8 @@
 * Thông tư 27/2014/TT-BLĐTBXH
 * Các công ước của ILO
 * Chương 19 của TPP 
+# Quyền tự do lập hội
+
 
 
 > Tiếp theo, xem [Tư duy xử lý kỷ luật](https://lehanget154.github.io/tu-duy-xu-ly-ky-luat/)  
