@@ -64,6 +64,7 @@
     * Tổ chức và lãnh đạo đình công 
     * Tổ chức các phong trào thi đua 
     * Tổ chức, nâng cao đời sống cho NLĐ 
-# Đối thoại tại nơi làm việc 
-* NĐ 60: 
-> Tiếp theo, xem [Tư duy xử lý kỷ luật](https://lehanget154.github.io/tu-duy-xu-ly-ky-luat/)  
+# Đối thoại tại nơi làm việc (ĐTTNLV)
+* NĐ 60: Là việc `trao đổi trực tiếp giữa` NSDLĐ và NLĐ/ đại diện TTLĐ với NSDLĐ `nhằm chia sẻ thông tin`, `tăng cường sự hiểu biết` giữa NSDLĐ và NLĐ để đảm bảo quyền thực hiện quy chế `dân chủ ở cơ sở` tại nơi làm việc.
+*  
+> Tiếp theo, xem [Luật Công Đoàn 2012](hhttp://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=1&mode=detail&document_id=163545)  
