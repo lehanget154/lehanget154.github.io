@@ -37,6 +37,9 @@
   *  Là tổ chức cơ sở của CĐ 
   *  Tập hợp đoàn viên của 1/ 1 số DN
   *  Được CĐ cấp trên công nhận 
+* Điều kiện, thủ tục thành lập CĐCS:
+  *  Nếu NLĐ đã là ĐVCĐ: Ít nhất 5 ĐVCD tự nguyện gia nhập CĐVN 
+  *  Nếu NLĐ chưa phải là ĐVCĐ: Ít nhất 5 NLĐ tự nguyện gia nhập CĐVN 
 
 
 
