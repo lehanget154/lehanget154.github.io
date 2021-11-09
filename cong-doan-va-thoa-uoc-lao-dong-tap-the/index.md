@@ -64,11 +64,15 @@
     * Tổ chức và lãnh đạo đình công 
     * Tổ chức các phong trào thi đua 
     * Tổ chức, nâng cao đời sống cho NLĐ 
-# Đối thoại tại nơi làm việc (ĐTTNLV) - NĐ 60
+# Đối thoại tại nơi làm việc (ĐTTNLV) - NĐ 60 2013 
 * Là việc `trao đổi trực tiếp giữa` NSDLĐ và NLĐ/ đại diện TTLĐ với NSDLĐ `nhằm chia sẻ thông tin`, `tăng cường sự hiểu biết` giữa NSDLĐ và NLĐ để đảm bảo quyền thực hiện quy chế `dân chủ ở cơ sở` tại nơi làm việc.
-* Quy chế dân chủ tại nơi làm việc: 
-  *  Nội dung NSDLĐ phải công khai
-  *  Nội dung NLĐ phải tham gia ý kiến 
+* Quy chế dân chủ (QCDC) tại nơi làm việc: 
+  *  Nội dung NSDLĐ phải công khai: Vd: phương án sử dụng lao động, nội quy lao động 
+  *  Nội dung NLĐ phải tham gia ý kiến: Vd: tham gia đình công hay không? 
   *  Nội dung NLĐ quyết định
   *  Nội dung NLĐ kiểm tra, giám sát 
+*  Các hình thức thực hiện QCDC tại cơ sở:
+   * Đối thoại tại nơi làm việc
+   * Hội nghị NLĐ
+   * Các hình thức khác   
 > Tiếp theo, xem [Luật Công Đoàn 2012](hhttp://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=1&mode=detail&document_id=163545)  
