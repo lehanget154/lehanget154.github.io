@@ -26,6 +26,8 @@
   *  Đại diện, bảo vệ NLĐ 
 * Chức năng:
   * Đại diện TTNLĐ: Khởi xướng, lãnh đạo đình công; thương lượng tập thể
+  *  Bảo vệ NLĐ: Giám sat thực hiện KLLĐ của NSDLĐ
+  *  Tham gia QLNN, QL KT-XH; Tuyên truyền, vận động 
   *  
 
 
