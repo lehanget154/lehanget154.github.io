@@ -132,4 +132,4 @@
 * Kết hợp hài hoà giữa chính sách kinh tế và chính sách xã hội 
 * Tôn trọng, nghiêm chỉnh tuân thủ những quy phạm pháp luật quốc tế
 
->> Tiếp theo, xem https://lehanget154.github.io/khai-quat-luat-lao-dong-vietnam/  
+> Tiếp theo, xem https://lehanget154.github.io/khai-quat-luat-lao-dong-vietnam/  
