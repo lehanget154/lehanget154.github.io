@@ -48,6 +48,9 @@
   * CĐ cấp trên trực tiếp cơ sở ra quyết định công nhận CĐCS 
 * Thẩm quyền của CĐ:
   *   CĐ TW: 
+      * Làm luật: Trình dự án luật, pháp lệnh. VD: Luật công đoàn
+      * Tham gia các hội đồng: Đưa ra khuyến nghị. VD: Hội đồng tiền lương QG
+      * Tham dự hội nghị/được tham khảo ý kiến: Bàn, quyết định vấn đề liên quan đến quyền, nghĩa vụ của NLĐ. VD: đóng góp ý kiến xây dựng danh mục bệnh nghề nghiệp  
 
 
 
