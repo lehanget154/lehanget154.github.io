@@ -24,6 +24,9 @@
   *  Là tổ chức chính trị-xã hội
   *  Dưới sự lãnh đạo của Đảng 
   *  Đại diện, bảo vệ NLĐ 
+* Chức năng:
+  * Đại diện TTNLĐ: Khởi xướng, lãnh đạo đình công; thương lượng tập thể
+  *  
 
 
 
