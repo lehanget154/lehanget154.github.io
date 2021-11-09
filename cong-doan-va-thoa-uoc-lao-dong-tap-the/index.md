@@ -10,7 +10,7 @@
 * Các công ước của ILO
 * Chương 19 của TPP 
 # Quyền tự do lập hội
-
+* NLĐ có quyền thành lập, gia nhập, hoạt động công đoàn, tổ chức nghề nghiệp, tổ chức khác theo quy định của PL 
 
 
 > Tiếp theo, xem [Tư duy xử lý kỷ luật](https://lehanget154.github.io/tu-duy-xu-ly-ky-luat/)  
