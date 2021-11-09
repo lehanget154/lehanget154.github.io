@@ -37,10 +37,17 @@
   *  Là tổ chức cơ sở của CĐ 
   *  Tập hợp đoàn viên của 1/ 1 số DN
   *  Được CĐ cấp trên công nhận 
-* Điều kiện, thủ tục thành lập CĐCS:
+* Điều kiện thành lập CĐCS:
   *  Nếu NLĐ đã là ĐVCĐ: Ít nhất 5 ĐVCD tự nguyện gia nhập CĐVN 
   *  Nếu NLĐ chưa phải là ĐVCĐ: Ít nhất 5 NLĐ tự nguyện gia nhập CĐVN 
-
+* Thủ tục thành lập CĐCS: 
+  * Tổ chức ban vận động thành lập CĐCS
+  * Khi có đủ số lượng, tổ chức hội nghị thành lập CĐCS
+  * Công bố danh sách NLĐ xin gia nhập công đoàn; tuyên bố thành lập CĐCS; bầu BCH CĐCS
+  * Trong thời hạn 15 ngày, lập hồ sơ đề nghị CĐ cấp trên trực tiếp cơ sở ra quyết định công nhận ĐV và CĐCS 
+  * CĐ cấp trên trực tiếp cơ sở ra quyết định công nhận CĐCS 
+* Thẩm quyền của CĐ:
+  *   CĐ TW: 
 
 
 
