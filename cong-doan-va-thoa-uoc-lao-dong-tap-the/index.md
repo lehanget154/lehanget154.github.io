@@ -67,5 +67,8 @@
 # Đối thoại tại nơi làm việc (ĐTTNLV) - NĐ 60
 * Là việc `trao đổi trực tiếp giữa` NSDLĐ và NLĐ/ đại diện TTLĐ với NSDLĐ `nhằm chia sẻ thông tin`, `tăng cường sự hiểu biết` giữa NSDLĐ và NLĐ để đảm bảo quyền thực hiện quy chế `dân chủ ở cơ sở` tại nơi làm việc.
 * Quy chế dân chủ tại nơi làm việc: 
-  *  
+  *  Nội dung NSDLĐ phải công khai
+  *  Nội dung NLĐ phải tham gia ý kiến 
+  *  Nội dung NLĐ quyết định
+  *  Nội dung NLĐ kiểm tra, giám sát 
 > Tiếp theo, xem [Luật Công Đoàn 2012](hhttp://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=1&mode=detail&document_id=163545)  
