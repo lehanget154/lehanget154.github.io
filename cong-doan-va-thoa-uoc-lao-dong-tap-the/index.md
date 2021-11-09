@@ -33,6 +33,10 @@
    *  Liên đoàn LĐ tỉnh/CĐ ngành/Tổng công ty trực thuộc TW
    *  CĐ cấp trên cơ sở 
    *  CĐ cơ sở, nghiệp đoàn
+* CĐCS: 
+  *  Là tổ chức cơ sở của CĐ 
+  *  Tập hợp đoàn viên của 1/ 1 số DN
+  *  Được CĐ cấp trên công nhận 
 
 
 
