@@ -79,5 +79,7 @@
   * Điều kiện làm việc, yêu càu của NLĐ
   * Tình hình sản xuất kinh doanh, yêu cầu của NSDLĐ 
   * Việc thực hiện các thoả thuận 
- 
+* Hình thức đối thoại:
+  *  Định kỳ: 3 tháng/lần
+  *  Đột xuất: Bất kỳ thời điểm nào 
 > Tiếp theo, xem [Luật Công Đoàn 2012](hhttp://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=1&mode=detail&document_id=163545)  
