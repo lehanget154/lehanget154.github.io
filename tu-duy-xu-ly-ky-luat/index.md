@@ -69,4 +69,5 @@ Luật => Nghị định => Thông tư => Công văn hướng dẫn => Bản s�
 - Tư duy phân tích và xử lý
 => Căn cứ pháp lý VN => Căn cứ pháp lý nội bộ DN => Nguyên tác quản trị => Kết luật và xử lý  
 => Rõ ràng => có cơ sở => xác thực => logic => đúng đắn  
+> Xem tiếp [Luật lao động động 2019](https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Bo-Luat-lao-dong-2019-333670.aspx)  
 
