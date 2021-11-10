@@ -2,11 +2,11 @@
 
 # Tài liệu tham khảo
 * Luật lập hội 1975
-* Luật lao động
-* Luật công đoàn 
+* [Luật lao động 2019](https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Bo-Luat-lao-dong-2019-333670.aspx)
+* [Luật Công Đoàn 2012](hhttp://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=1&mode=detail&document_id=163545) 
 * [Nghị định 60/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Nghi-dinh-60-2013-ND-CP-huong-dan-BLLD-thuc-hien-quy-che-dan-chu-o-co-so-194758.aspx)
 * [Nghị định 53/2014/NĐ-CP](https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Nghi-dinh-53-2014-ND-CP-co-quan-quan-ly-nha-nuoc-lay-y-kien-xay-dung-chinh-sach-phap-luat-lao-dong-231389.aspx)
-* Thông tư 27/2014/TT-BLĐTBXH
+* [Thông tư 27/2014/TT-BLĐTBXH](https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Thong-tu-27-2014-TT-BLDTBXH-huong-dan-co-quan-quan-ly-nha-nuoc-lao-dong-lay-y-kien-to-chuc-dai-dien-nguoi-lao-dong-251919.aspx)
 * Các công ước của ILO
 * Chương 19 của TPP 
 # Quyền tự do lập hội (freedom of association)
