@@ -4,7 +4,7 @@
 * Luật lập hội 1975
 * Luật lao động
 * Luật công đoàn 
-* Nghị định 60/2013/NĐ-CP
+* [Nghị định 60/2013/NĐ-CP](https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Nghi-dinh-60-2013-ND-CP-huong-dan-BLLD-thuc-hien-quy-che-dan-chu-o-co-so-194758.aspx)
 * Nghị định 53/1024/NĐ-CP
 * Thông tư 27/2014/TT-BLĐTBXH
 * Các công ước của ILO
