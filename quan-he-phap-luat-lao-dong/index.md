@@ -14,5 +14,9 @@
    * QHPLLĐ cá nhân
    * QHPLLĐ tập thể
    * Các QHPLLĐ khác liên quan trực tiếp với QHLĐ 
+# QHPLLĐ cá nhân
+* Tổ chức, cá nhân có nhu cầu thuê mướn, và sử dụng sức lao động để thực hiện sxkd.
+* Công dân có nhu cầu cho thuê sức lao động để có tiền nuôi sống bản thân, gia đình. 
+* Thời điểm 2 chủ thể trên gặp gỡ nhau thì hình thành nên QHPLLĐ, theo quy định pháp luật. 
 
 > Tiếp theo, xem [Luật Công Đoàn 2012](hhttp://vanban.chinhphu.vn/portal/page/portal/chinhphu/hethongvanban?class_id=1&_page=1&mode=detail&document_id=163545)  
