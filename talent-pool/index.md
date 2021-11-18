@@ -1,5 +1,6 @@
 # 4 BƯỚC XÂY DỰNG TALENT POOL
 
+
 # Vietnamese 
 Talent pools là tên gọi của một nhóm nhân viên được công ty tập trung đào tạo và phát triển để có thể làm những task có yêu cầu nhiều kỹ năng cao hơn. Thường thì nhóm này được xem là những nhân viên cốt lõi/xuất sắc và có tiềm năng lớn.  
 
