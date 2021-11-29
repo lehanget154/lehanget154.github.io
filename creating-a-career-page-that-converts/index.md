@@ -14,6 +14,7 @@ While there are many ways to set up a successful page, there are some core ideas
 
 1. Be Consistent With Your Brand Identity 
 The best way to convince people to apply to your company is to tell them who you are. Your career page needs to have clear and consistent messaging that communicates the uniqueness of your corporate culture.  
+
 Airbnb is often held up as a model, in this regard. Inconsistency will turn away discerning candidates. For example, if your career page speaks of your emphasis on inclusion and diversity, make sure the images you share of your team members reflect that.  
 Moreover, career page content shouldn’t just convey your corporate culture, it should help build your brand.  
 
