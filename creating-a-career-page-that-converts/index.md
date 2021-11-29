@@ -1,6 +1,12 @@
 # CREATING A CAREERR PAGEE THAT CONVERTS
 
 
+# Vietnamese 
+Một trang tuyển dụng được xây dựng bài bản sẽ là một sức mạnh to lớn để giúp chuyển đổi ứng viên tiềm năng. Tuy nhiên, để điều đó xảy ra, nó đòi hỏi một sự xem xét tỉ mỉ và được thực sự công nhận là một công cụ hữu ích trong tuyển dụng nhân sự.  
+
+Ngày nay không còn bất kỳ sự thiếu hụt nào trong việc tìm ra các cách thật sáng tạo và thu hút để thu hút ứng viên.  
+
+# English original  
 A well-crafted career page has the power to win over and convert qualified candidates. However, in order for that to be the case, it requires careful oversight and to be recognized for what it truly is—a valuable tool in the recruiting tool belt.  
 
 Today there’s no shortage of creative and engaging ways for companies to attract candidates. And while it’s true that successful talent teams employ a healthy mix of recruiting tactics, few levers remain as important and relevant as the tried and true company career page.  
@@ -62,4 +68,4 @@ Bottom Line
 Your career page is a focal point of talent recruitment and brand construction. A sound, well-optimized page will help you attract job seekers who are a great match for your company and convert them into valuable applicants in your candidate pipeline.  
 
 
-> Nguồn [SHRM](https://www.shrm.org/resourcesandtools/tools-and-samples/how-to-guides/pages/how-to-target-passive-job-seekers.aspx)  
+> Nguồn [smartrecruiters](https://www.smartrecruiters.com/blog/creating-a-career-page-that-converts/)  
