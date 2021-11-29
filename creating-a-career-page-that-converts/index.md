@@ -4,7 +4,7 @@
 # Vietnamese 
 Một trang tuyển dụng được xây dựng bài bản sẽ là một sức mạnh to lớn để giúp chuyển đổi ứng viên tiềm năng. Tuy nhiên, để điều đó xảy ra, nó đòi hỏi một sự xem xét tỉ mỉ và được thực sự công nhận là một công cụ hữu ích trong tuyển dụng nhân sự.  
 
-Ngày nay không còn bất kỳ sự thiếu hụt nào trong việc tìm ra các cách thật sáng tạo và thu hút để thu hút ứng viên.  
+Ngày nay không còn bất kỳ sự thiếu hụt nào trong việc tìm ra các cách thật sáng tạo và thu hút để thu hút ứng viên. ![](%20.png)  
 
 # English original  
 A well-crafted career page has the power to win over and convert qualified candidates. However, in order for that to be the case, it requires careful oversight and to be recognized for what it truly is—a valuable tool in the recruiting tool belt.  
