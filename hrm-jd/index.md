@@ -79,20 +79,20 @@ Xây ra những công cụ ở trên nếu viết ra trong 1 bài thì không xu
 - Xây dựng cơ chế chính sách thúc đẩy đào tạo (lộ trình công danh)
 
 1.6 Tổng hợp hoàn thiện chính sách lương 3P  
-Để bài bản hơn nữa, chúng ta nên có khoảng 20 quy trình trong mảng Quản trị Nhân sự. Mỗi một quy trình bao gồm cả các chính sách có thể được coi như là 1 công cụ. MỖI MỘT  
+Để bài bản hơn nữa, chúng ta nên có khoảng 20 quy trình trong mảng Quản trị Nhân sự. Mỗi một quy trình bao gồm cả các chính sách có thể được coi như là 1 công cụ.  
 
-CÔNG CỤ GIẢI QUYẾT MỘT VẤN ĐỀ NHÂN SỰ  
+MỖI MỘT CÔNG CỤ GIẢI QUYẾT MỘT VẤN ĐỀ NHÂN SỰ  
 01 - Quy trình tuyển dụng nhân sự  
 02 - Quy trình tuyển dụng nhân sự cao cấp  
 03 - Quy trình thử việc học việc  
 04 - Quy trình thực tập  
 05 - Quy định quản lý quản trị viên tập sự  
-06 - Quy trinh dao tao ben ngoai  
+06 - Quy trình đào tạo bên ngoài  
 07 - Quy trình đào tạo nội bộ  
 08 - Quy trình đào tạo hội nhập  
 09 - Quy trình nghỉ việc  
-10 - Quy trinh nghi phep, nghi viec rieng  
-11 - Quy che khen thuong  
+10 - Quy trình nghỉ phép, nghỉ việc riêng  
+11 - Quy chế khen thưởng  
 12 - Quy chế kỷ luật  
 13 - Quy chế bổ nhiệm  
 14 - Quy trình đánh giá công việc  
