@@ -146,19 +146,22 @@ Song song với hội nhập là thử việc. Và quy trình tuyển dụng k�
 Từ việc duy trì lập kế hoạch và triển khai công việc, chúng ta dần dần tiến tới áp dụng KPI vào làm thước đo đánh giá hiệu quả công việc. Chúng ta dần dần áp dụng chứ không nhất thiết phải áp dụng ngay. Tôi nghĩ khi quy mô công ty vượt quá 10 người thì áp dụng KPI sẽ tốt. Chứ áp dụng ngay khi công ty còn nhỏ có thể sẽ tạo ra áp lực cho những người mới gia nhập từ đó dẫn tới khó tuyển người.  
 Ngoài ra, chúng ta cần tổ chức các hoạt động động viên tinh thần cho nhân viên trong tổ chức. Đó có thể là hoạt động tôn vinh, cũng có thể là các hoạt động thăm hỏi khích lệ nhân viên. Các hoạt động khích lệ nên là các hoạt động nhỏ. Tôi thấy việc chia sẻ về tầm nhìn sứ mệnh tổ chức cần thực hiện nhưng đối với những người trẻ có khả năng cao là không hiệu quả. Kinh nghiệm ở bài này có thể giúp ích cho bạn: Kinh nghiệm Quản lý nhân viên trẻ  
 - Giữ: là các hoạt động đáp ứng các nhu cầu an toàn và cơ bản của nhân viên như lương, phúc lợi, bảo hiểm xã hội, ốm đau, thai sản, an toàn, thăm hỏi... Cụ thể hơn:
+
 Với các công việc của lương:  
-- Lập bảng lương, tiến hành thiết lập các công thức để tính lương
-- Tiến hành làm thủ tục thanh toán lương cho mọi người
+  - Lập bảng lương, tiến hành thiết lập các công thức để tính lương
+  - Tiến hành làm thủ tục thanh toán lương cho mọi người
+
 Với các công việc của bảo hiểm:  
-- Báo tăng đóng BHXH cho người lao động gồm những gì ( Tờ khai A01, D02..)
-- Báo giảm lao động đóng BHXH, chốt sổ BHXH gồm những gì...
-- HS hưởng ốm đau, thai sản... cần những gì.
-- HS điều chỉnh lương, HS gia hạn thẻ, Hs thay đổi mức đóng BHXH ...
+  - Báo tăng đóng BHXH cho người lao động gồm những gì ( Tờ khai A01, D02..)
+  - Báo giảm lao động đóng BHXH, chốt sổ BHXH gồm những gì...
+  - HS hưởng ốm đau, thai sản... cần những gì.
+  - HS điều chỉnh lương, HS gia hạn thẻ, Hs thay đổi mức đóng BHXH ...
+
 Ngoài ra còn các công việc về thuế thu nhập cá nhân, giảm trừ gia cảnh.  
 - Thải: Thải là từ khóa nghe có vẻ như hơi nặng nề nhưng nếu có góc nhìn thoáng thì đây là những công việc liên quan đến đáp ứng luật, quan hệ lao động. Chi tiết hơn bao gồm các công việc:
-- Quản lý thông tin và hồ sơ nhân viên. Công ty mới thường không đầy đủ việc này nên bạn nhớ chú ý.
-- Hoàn thiện các giấy tờ liên quan như hợp đồng, phụ lục, quyết định
-- Trong trường hợp xảy ra tranh chấp thì tiến hành các hoạt động xử lý quan hệ như kỷ luật, thỏa thuận thôi việc...
+  - Quản lý thông tin và hồ sơ nhân viên. Công ty mới thường không đầy đủ việc này nên bạn nhớ chú ý.
+  - Hoàn thiện các giấy tờ liên quan như hợp đồng, phụ lục, quyết định
+  - Trong trường hợp xảy ra tranh chấp thì tiến hành các hoạt động xử lý quan hệ như kỷ luật, thỏa thuận thôi việc...
 ## 2.3 Do là công ty khởi nghiệp, nên tôi nghĩ khả năng cao chúng ta sẽ cần phải thực hiện cả các công việc hành chính. Vì thế, chúng ta cần hiểu Hành Chính là: làm tất cả mọi thứ để duy trì môi trường làm việc sao cho phù hợp và tối ưu nhất góp phần thúc đẩy nhân viên, tổ chức hoạt động hiệu quả.  
 Hành chính có 8 nhóm công việc:  
 - Lễ tân văn phòng
