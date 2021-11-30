@@ -11,3 +11,10 @@
 - Đọc các luật như Luật lao động phần bảo hiểm, luật BH, luật Việc làm
 - ...
 
+# 2. Nắm tình hình hiện tại:
+- Mức đóng cụ thể của từng lao động và thông tin của người lao động – căn cứ theo hợp đồng lao động đã ký.
+- Xem lại hồ sơ của từng người, nắm các thông số cơ bản như họ tên, tuổi bằng cấp, tình trạng bảo hiểm
+- Tìm hiểu xem các thông tin liên hệ với bên bảo hiểm như thế nào ?
+- Xem lại đường đi tới cơ quan bảo hiểm ?
+...  
+
