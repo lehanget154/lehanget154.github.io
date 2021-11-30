@@ -123,6 +123,7 @@ Các công việc tác nghiệp cho một công ty mới thành lập sẽ chia 
 6. Xây dựng nội quy lao động
 7. Thành lập bộ phận an toàn vệ sinh lao động và Thành lập bộ phận y tế
 8. Đăng ký thang bảng lương với Phòng Lao động Quận
+
 Trong 8 việc này, với kinh nghiệm mở công ty của tôi thì 4 việc đầu cần quan tâm và thực hiện ngay.  
 
 ## 2.2 Triển hoạt động đáp ứng nhu cầu nội bộ doanh nghiệp. Cụ thể là hỗ trợ các trưởng bộ phận và CEO các công việc vật lý liên quan đến Quản trị nhân sự:  
