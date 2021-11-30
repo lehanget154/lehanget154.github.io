@@ -174,27 +174,28 @@ Hành chính có 8 nhóm công việc:
 - Tiếp khách
 
 Và 8 nhóm chính này có thể chia thành 20 quy trình công việc:  
-01 – Quy dinh quan ly thu vien cong ty  
-02 – Quy che cham cong  
-03 – Quy dinh sua chua  
-04 – Quy trinh bao tri, bao hanh  
-05 - Quy dinh quan ly va to chuc cuoc hop  
-06 – Quy dinh quan ly con dau  
-07 – Quy dinh tiep khach  
-08 – Quy dinh quan ly may vi tinh, mang, internet  
-09 – Quy dinh quan ly van ban den, van ban di  
-10 – Quy dinh quan ly van phong pham  
-11 – Quy dinh quan ly va su dung dien thoai  
-12 – Quy dinh che do cong tac phi  
-13 – Quy dinh quan ly va su dung xe o to  
-14 – Quy dinh quan ly ho so  
-15 – Quy dinh quan ly tai lieu  
-16 – Quy dinh soan thao van ban  
-17 – Quy trinh to chuc hoi nghi  
-18 – Quy dinh quan ly bieu mau  
-19 – Quy trinh xu ly thong tin  
-20 – Quy dinh kiem soat nhan vien, khach ra vao cong  
-21 – Quy dinh quan ly tai san, hang hoa ra vao cong  
+01 – Quy định quản lý thư viện công ty  
+02 – Quy chế chấm công  
+03 – Quy định sửa chữa  
+04 – Quy trình bảo trì, bảo hành  
+05 - Quy định quản lý, tổ chức cuộc họp  
+06 – Quy định quản lý con dấu  
+07 – Quy định tiếp khách  
+08 – Quy định quản lý máy vi tính, mạng, internet   
+09 – Quy định quản lý văn bản đến, văn bản đi  
+10 – Quy định quản lý văn phòng phẩm   
+11 – Quy định quản lý và sử dụng điện thoại  
+12 – Quy định chế độ công tác phí  
+13 – Quy định quản lý và sử dụng xe oto  
+14 – Quy định quản lý hồ sơ  
+15 – Quy định quản lý tài liệu  
+16 – Quy định soạn thảo văn bản   
+17 – Quy trình tổ chức hội nghị   
+18 – Quy định quản lý biểu mẫu   
+19 – Quy trình xử lý thông tin   
+20 – Quy định kiểm soát nhân viên, người ra vào cổng  
+21 – Quy định quản lý tài sản, kiểm soát, ra vào cổng  
+  
 2.5 Những công việc khác: Song song với các công việc liên quan đến Nhân sự, Hành chính, trong môi trường khởi nghiệp, tôi tin rằng chúng ta còn cần phải làm cả những công việc khác để giúp cho tổ chức nhanh chóng vào ổn định. Đó cũng có thể là quan hệ, đó cũng có thể là kinh doanh, đó cũng có thể là kế toán...  
  
 Vậy là tạm hết JD cho vị trí HRM với mức thu nhập 20 triệu/ tháng cho công ty mới thành lập. Chúc bạn làm được hết việc.  
