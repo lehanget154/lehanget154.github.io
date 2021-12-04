@@ -19,7 +19,7 @@
 
 9.  **MÂY TẦNG NÀO GẶP GIÓ TẦNG ẤY**: Người bạn giao thiệp phải tương xứng với cuộc sống hiện tại của bạn. Dựa dẫm vào những mối quan hệ lớn trong khi bạn không đáp lại được gì cho họ cũng sẽ không lâu bền.
 
-10. **SET EXPECTATION TỪ ĐẦU**: Giai đoạn đầu của một mối quan hệ rất trọng. Đây là thời gian bạn và đối phương set expectation cho nhau. Từ đầu bạn đã lép vế thì mãi bạn vẫn sẽ như vậy, đừng mong vùng lên.
+10. **SET EXPECTATION TỪ ĐẦU**: Giai đoạn đầu của một mối quan hệ rất quan trọng. Đây là thời gian bạn và đối phương set expectation cho nhau. Từ đầu bạn đã lép vế thì mãi bạn vẫn sẽ như vậy, đừng mong vùng lên.
 
 11. **KHÔNG CÓ SỰ LỰA CHỌN HOÀN HẢO**: Bạn không thể đòi hỏi tất cả mọi thứ đều hoàn hảo. Không có sự lựa chọn nào đúng ý bạn 100% đâu. Vậy nên, cân nhắc được - mất, lợi - hại để có sự lựa chọn sáng suốt nhất nhé.
 
