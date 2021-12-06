@@ -18,7 +18,11 @@
 ## 3. Xây dựng các quỹ dự phòng 
 - **Emergency fund**: dùng cho trường hợp bất khả kháng, nằm ngoài kế hoạch (ốm đau, xe hư, etc), nên có ít nhất run way từ 6 tháng trở lên.
 **Emergency fund = Số tháng x Mức chi tiêu tối thiểu**  
--  
+-  Có nên mang quỹ EF đi đầu tư hay không? > Mục tiêu quỹ EF là để bảo vệ tiền, không phải để kiếm tiền. 
+-  Có nên thay EF bằng BHNT hay không? > Không, vẫn luôn cần tiền mặt
+-  Tính chất của EF cần có: 
+   -  Tính sẵn sàng: EF là để một khoản tiền mặt sẵn sàng, cần là phải có ngay 
+   -  Độ chắc chắc về giá trị: Phải biết chắc chắn mình có bao nhiêu tiền khi cần 
+- Để tránh bớt việc mất giá thì đem đi gửi tiết kiệm, tiền tiết kiệm sẽ hạn chế một phần lạm phát 
 - **Sinking fund**: dùng cho những chi tiêu trong kế hoạch (đổi xe, xây lại nhà, mua máy tính mới, etc). Không có quỹ cụ thể, tuỳ theo kế hoạch từng cá nhân 
--  
 
