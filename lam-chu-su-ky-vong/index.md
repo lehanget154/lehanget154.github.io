@@ -8,4 +8,4 @@
 
 ## Những điều mình có thể kiểm soát được 
 - Điều duy nhất mình có thể kiểm soát được là chính bản thân mình, ngoài cái đó ra thì ko có gì khác. 
--  
+- Bỏ kỳ vọng và đặt tiêu chuẩn cao cho bản thân.  
