@@ -7,4 +7,5 @@
 - Standard: đặt ra tiêu chuẩn cho những điều mình có thể kiểm soát được > Giá trị tiêu chuẩn
 
 ## Những điều mình có thể kiểm soát được 
-- Điều duy nhất mình có thể kiểm soát được 
+- Điều duy nhất mình có thể kiểm soát được là chính bản thân mình, ngoài cái đó ra thì ko có gì khác. 
+-  
