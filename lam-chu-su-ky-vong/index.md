@@ -8,4 +8,10 @@
 
 ## Những điều mình có thể kiểm soát được 
 - Điều duy nhất mình có thể kiểm soát được là chính bản thân mình, ngoài cái đó ra thì ko có gì khác. 
-- Bỏ kỳ vọng và đặt tiêu chuẩn cao cho bản thân.  
+- Bỏ kỳ vọng và đặt tiêu chuẩn cao cho bản thân. 
+
+## Quản trị những sự kỳ vọng từ bên trong 
+- Hope for the best, prepare for the worst
+- "I have tried my best"
+-  
+
