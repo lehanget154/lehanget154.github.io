@@ -37,13 +37,12 @@
 - [x] Lối sống tối giản của người Nhật - Sasaki Fumio
 - [x] Atomic habits - James Clear
 - [x] Bạn không thông minh lắm đâu - David McRaney
+- [x] Bạn đắt giá bao nhiêu & Khí chất bao nhiêu hạnh phúc bấy nhiêu - Vãn Tình
 - [ ] Daily stoics 
 - [ ] Óc sáng suốt - Nguyễn Duy Cần 
 - [ ] Trí tuệ Do Thái - Eran Katz
 - [ ] Khéo ăn khéo nói sẽ có được thiên hạ - Trác Nhã
 - [ ] Nhà lãnh đạo không chức danh - Robin Sharma
-- [ ] Bạn đắt giá bao nhiêu & Khí chất bao nhiêu hạnh phúc bấy nhiêu - Vãn Tình
-
 - [ ] Bạn đã đỡ ngu ngơ hơn rồi đấy - David McRaney
 - [ ] Overload - Erin Kelly and Phyllis Moen
 - [ ] Cafe cùng Tony - Tony buổi sáng
