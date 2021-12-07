@@ -13,6 +13,6 @@
 ## Quản trị những sự kỳ vọng từ bên trong 
 - Hope for the best, prepare for the worst
 - "I have tried my best", không để mình phải nói từ giá như
--  
+- Tận hưởng hạnh phúc 
 -  
 
