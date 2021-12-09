@@ -9,7 +9,7 @@
 
 # Book list
 ## HR books
-- [x] Work rules - Laszlo Bock  
+- [x] [Work rules - Laszlo Bock](/Users/chloe/Documents/hang-blog/content/posts/Books/work-rules.md) 
 - [x] [How to choose your career - Onsen Swett Marden](/Users/chloe/Documents/hang-blog/content/posts/Books/how-to-choose-your-career.md)  
 - [x] Hiring and Keeping the Best People (Part 1)- Harvard Business Essentials  
 - [x] Do over - Jon Acuff  
