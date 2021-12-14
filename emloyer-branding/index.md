@@ -29,3 +29,6 @@
   - How do they behave daily on Social network?  
   - What are the key criteria that they decide to join a
 company?  
+
+# Key messages
+WHAT CAN WE ATTRACT THEM? = EMPLOYER BRANDING MESSAGE  
