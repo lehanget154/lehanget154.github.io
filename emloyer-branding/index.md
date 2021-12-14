@@ -59,4 +59,22 @@ WHAT CAN WE ATTRACT THEM? = EMPLOYER BRANDING MESSAGE
     + Employee/ Leader: Interview to compose their story, design & guide them to post by themselves.  
 
 # LinkedIn company page
--  
+- Page content:
+  -  Career opportunity
+  -  Real stories
+  -  Tips
+  -  Quality article 
+  -  Interaction games
+  -  Updates 
+  -  Emotional series 
+  -  Quotes & stats 
+- How
+  - Short content
+    - Text-only update (max 3000 characters)  
+    - One photo post (PNG or Gif)  
+  - Long content  
+    - Photo collection  
+    - Video  
+    - Document  
+    - External publisher  
+    - LinkedIn article 
