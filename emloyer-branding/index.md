@@ -57,3 +57,6 @@ WHAT CAN WE ATTRACT THEM? = EMPLOYER BRANDING MESSAGE
   - Employee personal profile  
     + Ambassador: Share the same EB branded content on their profiles.  
     + Employee/ Leader: Interview to compose their story, design & guide them to post by themselves.  
+
+# LinkedIn company page
+-  
