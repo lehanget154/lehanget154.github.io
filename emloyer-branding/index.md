@@ -86,12 +86,28 @@ WHAT CAN WE ATTRACT THEM? = EMPLOYER BRANDING MESSAGE
 ## Content Theme  
 - Company updates 
 - Team life 
--  
+- Stories 
+- Helpful sharing 
 
-Content Type  
+## Content Type  
+- Information 
+- Entertainment 
+- Inspiration 
+- Education 
+  
+## Call To Action  
+- Reaction 
+- Sharing 
+- Click to web 
+- Play the game 
+- Join the conversion 
+- Application
 
-Call To Action  
-
-Content Trigger  
-
+## Content Trigger  
+- Brand love 
+- Curiosity 
+- To solve the current problem 
+- Gift 
+- Funny content 
+  
 Content Format  
