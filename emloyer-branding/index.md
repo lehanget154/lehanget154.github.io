@@ -110,4 +110,7 @@ WHAT CAN WE ATTRACT THEM? = EMPLOYER BRANDING MESSAGE
 - Gift 
 - Funny content 
   
-Content Format  
+## Content Format  
+![Screen Shot 2021-12-14 at 23.03.27.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8e144819-fc22-44a9-8d5d-565fba62aa58/Screen_Shot_2021-12-14_at_23.03.27.png)  
+
+
