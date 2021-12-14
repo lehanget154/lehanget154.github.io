@@ -81,3 +81,17 @@ WHAT CAN WE ATTRACT THEM? = EMPLOYER BRANDING MESSAGE
 
 # EB content planning 
 
+![Screen Shot 2021-12-14 at 22.56.43.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cb26f6f-2864-40c4-9aa2-4912f6ec84b1/Screen_Shot_2021-12-14_at_22.56.43.png)  
+
+## Content Theme  
+- Company updates 
+- Team life 
+-  
+
+Content Type  
+
+Call To Action  
+
+Content Trigger  
+
+Content Format  
