@@ -49,4 +49,11 @@ WHAT CAN WE ATTRACT THEM? = EMPLOYER BRANDING MESSAGE
   -  Quotes and stats 
   -  Link to live/offline activities 
 - How to say:
-  -  
+  -  Company page:
+     + Serial posts with stylish & consistent theme
+     + Use integrated formats: image, photo collection, video...
+     + Select the active time slots.
+     + Boost with Ads
+  - Employee personal profile  
+    + Ambassador: Share the same EB branded content on their profiles.  
+    + Employee/ Leader: Interview to compose their story, design & guide them to post by themselves.  
