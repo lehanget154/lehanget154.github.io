@@ -32,3 +32,21 @@ company?
 
 # Key messages
 WHAT CAN WE ATTRACT THEM? = EMPLOYER BRANDING MESSAGE  
+
+# Facebook company page 
+- Use official company page  
+- Target to students & freshers, and junior levels.  
+- Mood & Tone:
+  - Be professional, but young & dynamic  
+  - Be consistent with theme & style  
+  - Be interactive & connected with games & live events.  
+- What to say:
+  -  Real stories
+  -  Tips for sussess 
+  -  Emotional serial content 
+  -  Company & industry exciting news
+  -  Games
+  -  Quotes and stats 
+  -  Link to live/offline activities 
+- How to say:
+  -  
