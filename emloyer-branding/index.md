@@ -78,3 +78,6 @@ WHAT CAN WE ATTRACT THEM? = EMPLOYER BRANDING MESSAGE
     - Document  
     - External publisher  
     - LinkedIn article 
+
+# EB content planning 
+
