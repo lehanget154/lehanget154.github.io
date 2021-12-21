@@ -20,7 +20,7 @@
 
 # Các sản phẩm được recommend 
 -  Toner: Mamonde rose 
--  Serum dưỡng ẩm: Cosmedica 
+-  Serum dưỡng ẩm: Cosmedica, hiện đang dùng Klairs Vitamin C.
 -  Chống nắng: Anessa SPA 50+
 
 # Nên tránh các sản phẩm
