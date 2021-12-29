@@ -23,5 +23,6 @@
 - Điều kiện hưởng: 
   1. Bị ốm đau, tai nạn mà không phải là tai nạn lao động phải nghỉ việc và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế. Trường hợp ốm đau, tai nạn phải nghỉ việc do tự hủy hoại sức khỏe, do say rượu hoặc sử dụng chất ma túy, tiền chất ma túy theo danh mục do Chính phủ quy định thì không được hưởng chế độ ốm đau.  
   2. Phải nghỉ việc để chăm sóc con dưới 07 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.
-
+- Thời gian hưởng:
+  
 
