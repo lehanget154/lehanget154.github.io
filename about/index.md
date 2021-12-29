@@ -67,4 +67,7 @@ Another 2 years to go!
 
 ## What to do in freetime 
 * Anime: stick to One Piece 
-*  
+* Gardening 
+* Running
+* Will be back to study swimming next summer 
+* Hangouts: just with few people I really like 
