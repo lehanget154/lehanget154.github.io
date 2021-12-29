@@ -64,3 +64,7 @@ Another 2 years to go!
 ## Đọc, đọc và đọc 
 * 2020 completed list
 * 2021 completed list 
+
+## What to do in freetime 
+* Anime: stick to One Piece 
+*  
