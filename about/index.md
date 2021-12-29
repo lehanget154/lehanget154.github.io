@@ -37,8 +37,8 @@
 - Theo dõi, đánh giá, cải tiến chương trình đào tạo, phát triển nhân sự  
 
 ### 4. ĐÁNH GIÁ, GHI NHẬN:
-- Xây dựng, phổ biến quy chế, quy định về đánh giá, ghi nhận  
-- Tổ chức, hướng dẫn, đào tạo đánh giá, ghi nhận  
+- Xây dựng, phổ biến quy chế, quy định về đánh giá, ghi nhận thành tích
+- Tổ chức, hướng dẫn, đào tạo đánh giá, ghi nhận thành tích 
 - Theo dõi, tổ chức đánh giá đình kỳ thường xuyên, không thường xuyên và đột xuất  
 - Đề xuất, khen thưởng, ghi nhận và vinh danh nhân viên có thành tích nổi bật  
 
