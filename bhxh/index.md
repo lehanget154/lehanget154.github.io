@@ -25,5 +25,7 @@
   2. Phải nghỉ việc để chăm sóc con dưới 07 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.
 - Thời gian hưởng:
   + Tổng thời gian nghỉ 1 năm, không kể lễ, tết, nghỉ hằng tuần: 
-    +  
+    +  Làm việc điều kiện bình thường: tham gia BHHX dưới 15 năm: 30 ngày; 15 - 30 năm: 40 ngày, từ 30 năm trở lên: 60 ngày 
+    +  Làm việc điều kiện độc hại, nặng nhọc từ khu vực có hệ số 0.7 trở lên: cứ cộng thêm 10 ngày so với ở trên
+    +  Nghỉ bệnh dài ngày: Tối đa 180 ngày tính cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần;
 
