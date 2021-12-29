@@ -79,5 +79,6 @@ Another 2 years to go!
 * Movie 
 * Gardening 
 * Running
+* Yoga
 * Continue learning swimming next summer 
 * Hangouts: just with few people I really like 
