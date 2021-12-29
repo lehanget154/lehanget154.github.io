@@ -16,7 +16,7 @@
 - Tạo nguồn, phỏng vấn, và sắp xếp phỏng vấn cho các bên liên quan  
 - Thương lượng lương, chế độ và gửi thư mời làm việc cho ứng viên  
 - Chuẩn bị tài liệu và phổ biến cho các bên liên quan chuẩn bị onboard  
-- Onboard và orientation  
+- Onboarding và orientation  
 - Theo dõi, tổ chức đánh giá performance và mức độ phù hợp của nhân sự  
 - Ký kết HĐLĐ/Chấm dứt thử việc  
 - Theo dõi, đánh giá, cải tiến quy trình tuyển dụng và onboard  
