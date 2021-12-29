@@ -25,7 +25,8 @@
 ### 2. COMPENSATION & BENEFITS:
 - Thực hiện công tác BHXH, BHYT, Thuế TNCN  
 - Quản lý chấm công, tính lương, thưởng và thanh toán lương hằng tháng  
-- Giải đáp, hỗ trợ, giải quyết các chế độ, chính sách cho nhân sự  
+- Giải quyết các vấn đề về quan hệ lao động trong phạm vi trách nhiệm  
+- Đánh giá, cải tiến, ban hành chính sách lương, thưởng hàng năm. Là cầu nối thông tin giữa nhân viên và cấp quản lý và ngược lại  
 - Quản lý, triển khai các chính sách của công ty. Là cầu nối thông tin giữa nhân viên và cấp quản lý và ngược lại  
 - Cập nhật, thay đổi, cải tiến các vấn đề về chính sách phù hợp với tình hình kinh doanh và các văn bản luật hiện hành  
 
