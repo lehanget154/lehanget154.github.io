@@ -69,5 +69,5 @@ Another 2 years to go!
 * Anime: stick to One Piece 
 * Gardening 
 * Running
-* Will be back to study swimming next summer 
+* Continue learning swimming next summer 
 * Hangouts: just with few people I really like 
