@@ -47,9 +47,11 @@
 - Xây dựng, phổ biến quy chế, quy định về đánh giá, ghi nhận thành tích
 - Tổ chức, hướng dẫn, đào tạo đánh giá, ghi nhận thành tích 
 - Theo dõi, tổ chức đánh giá đình kỳ thường xuyên, không thường xuyên và đột xuất  
-- Đề xuất, khen thưởng, ghi nhận và vinh danh nhân viên có thành tích nổi bật  
+- Đề xuất, khen thưởng, ghi nhận và vinh danh nhân viên có thành tích nổi bật 
+- Kỷ luật lao động 
 
 ### 5. PHÁT TRIỂN TỔ CHỨC:
+- Lập kế hoạch, xây dựng chương trình văn hoá, employee engagement, branding
 - Nâng cao, phát huy giá trị và văn hoá công ty  
 - Tăng mức độ tương tác và gắn bó của nhân viên  
 - Xây dựng thương hiệu Husble  
