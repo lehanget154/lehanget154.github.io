@@ -31,12 +31,17 @@
 - Cập nhật, thay đổi, cải tiến các vấn đề về chính sách phù hợp với tình hình kinh doanh và các văn bản luật hiện hành  
 
 ### 3. ĐÀO TẠO, PHÁT TRIỂN:
+- Xây dựng, đánh giá tiêu chuẩn năng lực nhân sự  
 - Xác định khoảng gap giữa năng lực của nhân sự và năng lực yêu cầu cho vị trí công việc  
+- Xác định và xây dựng lộ trình thăng tiến, định hướng nghề nghiệp cho từng vị trí công việc  
 - Phối hợp với leader/manager của từng bộ phận và tìm hiểu nhu cầu của nhân sự để xây dựng kế hoạch phát triển phù hợp cho nhân sự (IDPs: individual development plans) theo định hướng phát triển của công ty  
 - Phối hợp với leader/manager của từng bộ phận để lên kế hoạch và triển khai các chương trình đào tạo bắt buộc và không bắt buộc cho nhân sự trong năm  
+- Xây dựng, hướng dẫn một số kiến thức, kỹ năng phục vụ công việc nhưng không liên quan đến kiến thức chuyên môn  
 - Xây dựng môi trường làm việc cởi mở, sẵn sàng giúp đỡ và chia sẻ kiến thức  
-- Xây dựng hệ thống kiến thức chung bằng công nghệ: dễ dàng truy cập, có hệ thống, available all the time  
+- Xây dựng lộ trình đánh giá, review sau đào tạo  
+- Xây dựng đội ngũ nhân sự kế thừa  
 - Theo dõi, đánh giá, cải tiến chương trình đào tạo, phát triển nhân sự  
+
 
 ### 4. ĐÁNH GIÁ, GHI NHẬN:
 - Xây dựng, phổ biến quy chế, quy định về đánh giá, ghi nhận thành tích
