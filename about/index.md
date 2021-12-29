@@ -12,6 +12,7 @@
 ### 1. TUYỂN DỤNG:
 - Xác định và nắm rõ định biên nhân sự theo tháng, quý, năm  
 - Nhận yêu cầu và lập kế hoạch tuyển dụng  
+- Chuẩn bị, xây dựng JD và các tài liệu tuyển dụng (interview questions, Aptitute Test, Test chuyên môn, form, template, etc)
 - Tạo nguồn, phỏng vấn, và sắp xếp phỏng vấn cho các bên liên quan  
 - Thương lượng lương, chế độ và gửi thư mời làm việc cho ứng viên  
 - Chuẩn bị tài liệu và phổ biến cho các bên liên quan chuẩn bị onboard  
