@@ -22,6 +22,9 @@
 ## 1. Thai sản 
 - Bước 1: NSDLD báo nghỉ thai sản 
 - Bước 2: Hồ sơ hưởng chế độ thai sản
+ + Giấy khai sinh hoặc giấy chứng sinh bản sao công chứng;
+ + Giấy xác nhận phẫu thuật hoặc giấy ra viện đối với trường hợp phải phẫu thuật.
+ + Trong vòng 55 ngày kể từ ngày NLĐ đi làm trở lại thì phải nộp hồ sơ hưởng chế độ lên cơ quan BHXH, quá hạn sẽ không được giải quyết.
 1. Thất nghiệp 
 2. Ốm đau 
 3. Hưu trí 
