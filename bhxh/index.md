@@ -19,7 +19,8 @@
 ...  
 
 # 3. Một số trường hợp BHXH thường gặp  
-1. Thai sản 
+## 1. Thai sản 
+- Hồ sơ nhận trợ cấp thai sản: 
 2. Thất nghiệp 
 3. Ốm đau 
 4. Hưu trí 
