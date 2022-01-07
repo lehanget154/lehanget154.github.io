@@ -18,3 +18,12 @@
 - Xem lại đường đi tới cơ quan bảo hiểm ?
 ...  
 
+# 3. Một số trường hợp BHXH thường gặp  
+1. Thai sản 
+2. Thất nghiệp 
+3. Ốm đau 
+4. Hưu trí 
+5. Tai nạn lao động
+6. Bệnh nghề nghiệp 
+7. Tử tuất 
+
