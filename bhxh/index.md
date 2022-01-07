@@ -23,7 +23,6 @@
 2. Thất nghiệp 
 3. Ốm đau 
 4. Hưu trí 
-5. Tai nạn lao động
-6. Bệnh nghề nghiệp 
-7. Tử tuất 
+5. Tai nạn lao động, Bệnh nghề nghiệp 
+6. Tử tuất 
 
