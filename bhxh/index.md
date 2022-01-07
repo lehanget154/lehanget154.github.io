@@ -20,10 +20,11 @@
 
 # 3. Một số trường hợp BHXH thường gặp  
 ## 1. Thai sản 
-- Hồ sơ nhận trợ cấp thai sản: 
-2. Thất nghiệp 
-3. Ốm đau 
-4. Hưu trí 
-5. Tai nạn lao động, Bệnh nghề nghiệp 
-6. Tử tuất 
+- Bước 1: NSDLD báo nghỉ thai sản 
+- Bước 2: Hồ sơ hưởng chế độ thai sản
+1. Thất nghiệp 
+2. Ốm đau 
+3. Hưu trí 
+4. Tai nạn lao động, Bệnh nghề nghiệp 
+5. Tử tuất 
 
