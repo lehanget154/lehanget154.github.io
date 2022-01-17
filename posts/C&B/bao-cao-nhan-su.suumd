@@ -1,0 +1,33 @@
+---
+title: "BÁO CÁO QUẢN TRỊ NHÂN SỰ"  
+subtitle: ""
+date: 2020-10-27
+lastmod: 2022-01-17
+draft: false
+author: "Chloe"
+authorLink: "https://lehanget154.github.io"
+description: ""
+license: ""
+images: []
+
+tags: ["HR Report"]
+categories: ["C&B"]
+featuredImage: ""
+featuredImagePreview: ""
+---
+
+# Danh mục báo cáo
+- Tuyển: Báo cáo tuyển dụng
+- Dạy: Báo cáo đào tạo 
+- Dùng: 
+  + Báo cáo tình hình sử dụng lao động
+  + Báo cáo tuân thủ 
+  + Báo cáo đánh giá nhân sự  
+- Giữ:
+  + Báo cáo tiền lương 
+  + Báo cáo BHXH 
+  + Báo cáo phúc lợi đãi ngộ
+- Dừng:
+  + Báo cáo biến động nhân sự
+  + Báo cáo nghỉ việc 
+
