@@ -2,28 +2,66 @@
 
 
 
-ĐỂ CEO VÀ HR "NÓI CHUNG MỘT NGÔN NGỮ", CẦN THEO DÕI 12 CHỈ SỐ ĐÁNH GIÁ HIỆU QUẢ TUYỂN DỤNG SAU  
+# Boolean search là gì?  
+Boolean search là một quá trình kết hợp từ khoá với các từ khác hoặc ký hiệu khác để thu hẹp kết quả tìm kiếm. Nếu biết cách dùng Boolean search, bạn có thể tìm ra các ứng viên phù hợp một cách nhanh chóng, thay vì mất hàng tá thời gian lọc ứng viên trên Linkedin.  
 
-# Nhóm 1: Các chỉ số ảnh hưởng đến hiệu quả kinh doanh, để báo cáo trực tiếp lên CEO:
-1. Chỉ số 1: Chất lượng tuyển dụng (Quality of hire)  
-2. Chỉ số 2: Tỉ lệ tuyển mới hỏng (New hires failure rate)  
-3. Chỉ số 3: Lượng tổn thất doanh thu trong số ngày trống của vị trí (Revenue lost due to position vacancy days)  
+# Tại sao Boolean search quan trọng trong tuyển dụng?  
+Boolean search là một trong những kỹ năng quan trọng mà bất kỳ nhà tuyển dụng nào cũng phải nắm. Vì nếu bạn chỉ search theo chức vụ thì recruiter khác cũng search theo chức vụ. Bạn dễ dàng tìm thấy ứng viên thì recruiter khác cũng dễ dàng tìm thấy ứng viên. Làm cách nào bạn tìm được ứng viên mà ít recruiter khác tìm thấy. Do đó, nếu bạn biết cách vận dụng Boolean search vào trong tuyển dụng, bạn sẽ nhận được rất nhiều CV mà ít nhà tuyển dụng khác tìm được. Đồng nghĩa với bạn có được ứng viên tốt hơn, phù hợp hơn và tuyển nhanh hơn.  
 
-# Nhóm 2: Các chỉ số dự đoán, để báo cáo tới CEO và HR Manager:
-4. Chỉ số 4: Dự báo độ sẵn có/chất lượng của ứng viên (Level of candidate availability/quality forecast)  
-5. Chỉ số 5: Dự báo mức độ cạnh tranh tuyển dụng (Level of recruiting competition forecast)
-6. Chỉ số 6: Dự báo cơ hội thu thập ứng viên tài năng (Talent opportunity forecast)
-7. Chỉ số 7: Dự báo tỉ lệ thất nghiệp (Unemployment rate forecast)
-8. Chỉ số 8: Dự báo về chi phí nhân công (Labor costs forecast)
+# Tìm ứng viên với cú pháp Boolean search cơ bản  
+*Lưu ý: Các cú pháp này bạn phải đều VIẾT HOA.*  
 
-# Nhóm 3: Các chỉ số trong nội bộ nhóm tuyển dụng để cải thiện chất lượng tuyển dụng:
-9. Chỉ số 9: Tỉ lệ chuyển đổi của ứng viên qua các vòng (Candidate conversion rate)  
-10. Chỉ số 10: Chất lượng tuyển dụng của các nguồn (Source quality usage)  
-11. Chỉ số 11 : Tỉ lệ đáp ứng chỉ tiêu tuyển dụng (Vacancy fill rate)
-12. Chỉ số 12: Điểm thương hiệu tuyển dụng (Employer brand strength)
+## AND  
 
-# Lưu ý, 12 chỉ số trên được chia thành 3 loại:
-- Chỉ số quá khứ: Được sử dụng để báo cáo tổng quan về hiệu quả của chiến dịch tuyển dụng trước đó, tuy nhiên không thể dựa vào đó để ra quyết định trực tiếp theo thời gian thực.
-- Chỉ số thực: Được đo lường dựa trên các số liệu theo thời gian thực (tháng hoặc quý), phục vụ cho việc ra quyết định hàng ngày và hành động nhanh chóng.
-- Chỉ số dự báo: Không xuất hiện trong quá trình tuyển dụng mà được sử dụng để dự đoán các vấn đề và cơ hội có thể xảy đến trong bối cảnh tương lai.
+- Nếu bạn để chữ AND vào giữa hai từ khoá. Kết quả tìm kiếm chỉ thể hiện kết quả mà bao gồm cả hai từ khoá. Bạn có thể dùng ký hiệu " &" thay vì dùng từ " AND"  
+- Ví dụ: Search HR & employer branding trên Linkedin. Kết quả trả về chỉ những ứng viên có nội dụng HR và employer branding  
+
+## NOT  
+
+- Nếu bạn để chữ NOT vào giữa hai từ khoá. Kết quả tìm kiếm chỉ thể hiện kết quả chứa từ khoá thứ nhất mà không bao gồm từ khoá thứ hai.  
+- Ví dụ: Search Recruiter NOT HR. Kết quả chỉ trả về những profiles ứng viên có nội dung là recruiter.  
+
+## OR  
+
+- Nếu bạn để chữ OR vào giữa hai từ khoá. Kết quả tìm kiếm hể hiện một trong hai từ khoá hoặc bao gồm cả hai từ khoá.  
+- Ví dụ: Search Recruiter OR HR. Kết quả tìm kiếm có recruiter, có HR, hoặc bao gồm cả HR/Recruiter  
+
+## Dấu ngoặc kép" "  
+
+- Dấu ngoặc kép được dùng khi bạn muốn tìm kiếm chính xác nhiều hơn một từ.  
+- Ví dụ: Search ứng viên " Employer branding". Kết quả tìm kiếm trả về chính xác các ứng viên có nội dung employer branding.  
+- Nếu bạn thêm dấu hoa thị * vào cuối từ khoá. Bạn sẽ nhận được kết quả bao gồm chính xác từ khoá như dấu ngoặc kép nhưng bạn còn nhận được các biến thể của từ khoá.  
+
+## Dấu ngoặc đơn ( )  
+
+- Dấu ngoặc đơn được dùng nhiều nhất khi sử dụng với cú pháp OR.  
+- Thường áp dụng dấu ngoặc đơn khi tìm kiếm ứng viên có chức danh tương đương muốn tuyển.  
+- Ví dụ: HR (Manager OR Director)  
+
+# Tìm ứng viên với cú pháp Boolean search nâng cao  
+## Kết hợp ngoặc kép và ngoặc đơn  
+
+- Nếu HR muốn tìm ứng viên trong một ngành hoặc một tên công ty cụ thể. Bạn kết hợp ngoặc kép và ngoặc đơn.  
+- Ví dụ: HR tìm Software developer trong ngành ngân hàng  
+(“Software developer”) (“bank”)  
+
+## Kết hợp ngoặc kép, ngoặc đơn và OR  
+
+- Nếu HR muốn tìm chính xác vị trí có những cách đặt chức vụ tương đương, bạn kết hợp ngoặc kép, ngoặc đơn và OR.  
+- Ví dụ: HR muốn tìm ứng viên Content Creator hoặc Content Writer  
+“content” (“creator” OR “writer”)  
+
+## Kết hợp ngoặc kép, ngoặc đơn, OR và dấu trừ (-)  
+
+- Nếu HR muốn tìm ứng viên có cách đặt tên chức vụ tương đương nhưng loại trừ một yếu tố không mong muốn. HR kết hợp ngoặc kép, ngoặc đơn, OR và dấu -  
+- Ví dụ: HR muốn tìm vị trí Software Developer hoặc Software Engineeer nhưng không muốn hiện các bạn đang làm freelancer. Bạn search như sau:
+“software” (“developer” OR “engineer”) -“freelancer”  
+
+# Tips ứng dụng Boolean Search  
+
+Tips thường làm trước khi bắt đầu tìm ứng viên:
+- Liệt kê tất cả các từ khoá liên quan đến vị trí tuyển dụng trong một file excel. Ví dụ: chức vụ thông dụng, chức vụ chuyên biệt của một công ty đặt cho nhân viên, từ khoá liên quan tới kỹ năng và từ khoá liên quan tới công việc.  
+- Sau đó viết ra cách kết hợp cú pháp trong Boolean search với từ khoá.  
+- Search theo thứ tự từng từ khoá và cú pháp. Đánh dấu "done" những từ khoá nào đã search mỗi ngày. Như vậy, mình sẽ không bỏ lỡ bất kỳ từ khoá tìm kiếm nào.  
+- Trong quá trình search mình cũng phát hiện ra những từ khoá mới. Mình cập nhật ngay các từ khoá đó vào list của mình.  
 
